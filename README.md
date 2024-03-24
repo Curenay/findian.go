@@ -1,0 +1,1 @@
+Este programa solicita al usuario que introduzca una cadena, luego verifica si la cadena comienza con 'i', termina con 'n' y contiene 'a'. La comparación no distingue entre mayúsculas y minúsculas gracias a la función strings.ToLower(). Dependiendo de si se cumplen estas condiciones o no, imprimirá "¡Encontrado!" o "¡No encontrado!".
